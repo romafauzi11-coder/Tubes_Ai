@@ -1,5 +1,8 @@
 JUDUL PROYEK: SISTEM INFERENSI FUZZY PENENTUAN PRIORITAS PELANGGAN
 
+Aditya Dwi Aryanto (103132400027)
+Fauzi Romadhoni (103132400025)
+
 DESKRIPSI PROGRAM Program ini merupakan implementasi sistem logika fuzzy untuk menentukan tingkat prioritas pelanggan berdasarkan data kepuasan dan perilaku pembelian. Sistem dibangun menggunakan bahasa pemrograman Python tanpa melibatkan library sistem fuzzy eksternal. Program melakukan pemrosesan data mulai dari pembacaan berkas, perhitungan derajat keanggotaan, inferensi aturan, hingga defuzzifikasi untuk menghasilkan skor kelayakan numerik.
 
 STRUKTUR BERKAS
